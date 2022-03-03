@@ -1,2 +1,2 @@
 config:
-  springcloud
+  springcloud,versuion=1
