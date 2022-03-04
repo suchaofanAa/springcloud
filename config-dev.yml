@@ -1,2 +1,3 @@
 config:
-  springcloud,versuion=3,springcloud
+  info: "springcloud,versuion=3,springcloud"
+
